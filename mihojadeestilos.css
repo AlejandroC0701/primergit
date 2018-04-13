@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: blue;}
+
+#titulo{
+    background: #24E5F5;
+    padding-left: 150px;
+}
+
+#botones{
+    background-color:chartreuse;  
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#footer{
+    background-color: burlywood;
+    margin-left: 120px;
+}
+
+#nav{
+    
+}
+
+#proximos{
+    float: left;
+    background-color: darkgreen;
+    height: 1020px;
+}
